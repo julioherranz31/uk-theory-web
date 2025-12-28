@@ -1,0 +1,80 @@
+{
+  "total": 773,
+  "categories": [
+    {
+      "name": "Alertness",
+      "slug": "alertness",
+      "count": 28
+    },
+    {
+      "name": "Attitude",
+      "slug": "attitude",
+      "count": 39
+    },
+    {
+      "name": "Documents",
+      "slug": "documents",
+      "count": 29
+    },
+    {
+      "name": "Hazard awareness",
+      "slug": "hazard_awareness",
+      "count": 80
+    },
+    {
+      "name": "Road and traffic signs",
+      "slug": "road_and_traffic_signs",
+      "count": 136
+    },
+    {
+      "name": "Motorways",
+      "slug": "motorways",
+      "count": 20
+    },
+    {
+      "name": "Rules of the road",
+      "slug": "rules_of_the_road",
+      "count": 103
+    },
+    {
+      "name": "Safety & vehicle handling",
+      "slug": "safety_and_vehicle_handling",
+      "count": 110
+    },
+    {
+      "name": "Vulnerable road users",
+      "slug": "vulnerable_road_users",
+      "count": 55
+    },
+    {
+      "name": "Other types of vehicle",
+      "slug": "other_types_of_vehicle",
+      "count": 20
+    },
+    {
+      "name": "Vehicle loading",
+      "slug": "vehicle_loading",
+      "count": 18
+    },
+    {
+      "name": "Safety margins",
+      "slug": "safety_margins",
+      "count": 20
+    },
+    {
+      "name": "Incidents, accidents & emergencies",
+      "slug": "incidents_accidents_and_emergencies",
+      "count": 32
+    },
+    {
+      "name": "Vehicle condition",
+      "slug": "vehicle_condition",
+      "count": 45
+    },
+    {
+      "name": "Weather & environment",
+      "slug": "weather_and_environment",
+      "count": 38
+    }
+  ]
+}

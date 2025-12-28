@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "category": "Alertness",
+    "question_en": "Why should you scan well ahead while driving?",
+    "question_pt": "Por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 2,
+    "category": "Alertness",
+    "question_en": "How can you reduce distraction inside the car?",
+    "question_pt": "Ao dirigir, como reduzir distrações dentro do carro?",
+    "answer_en": "Set controls before you move off",
+    "answer_pt": "Ajustar controles antes de sair"
+  },
+  {
+    "id": 3,
+    "category": "Alertness",
+    "question_en": "While driving, what should you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 4,
+    "category": "Alertness",
+    "question_en": "What is the best action to take if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 5,
+    "category": "Alertness",
+    "question_en": "While driving, why should you scan well ahead while driving?",
+    "question_pt": "Ao dirigir, por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 6,
+    "category": "Alertness",
+    "question_en": "What must you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 7,
+    "category": "Alertness",
+    "question_en": "How can you reduce distraction inside the car?",
+    "question_pt": "Como reduzir distrações dentro do carro?",
+    "answer_en": "Set controls before you move off",
+    "answer_pt": "Ajustar controles antes de sair"
+  },
+  {
+    "id": 8,
+    "category": "Alertness",
+    "question_en": "While driving, what should you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 9,
+    "category": "Alertness",
+    "question_en": "While driving, what should you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 10,
+    "category": "Alertness",
+    "question_en": "Why must you scan well ahead while driving?",
+    "question_pt": "Por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 11,
+    "category": "Alertness",
+    "question_en": "What should you do if you feel tired while driving?",
+    "question_pt": "Ao dirigir, o que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 12,
+    "category": "Alertness",
+    "question_en": "What helps you keep full attention on the road?",
+    "question_pt": "Ao dirigir, o que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 13,
+    "category": "Alertness",
+    "question_en": "What must you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 14,
+    "category": "Alertness",
+    "question_en": "While driving, how can you reduce distraction inside the car?",
+    "question_pt": "Como reduzir distrações dentro do carro?",
+    "answer_en": "Set controls before you move off",
+    "answer_pt": "Ajustar controles antes de sair"
+  },
+  {
+    "id": 15,
+    "category": "Alertness",
+    "question_en": "While driving, what helps you keep full attention on the road?",
+    "question_pt": "O que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 16,
+    "category": "Alertness",
+    "question_en": "While driving, why should you scan well ahead while driving?",
+    "question_pt": "Por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 17,
+    "category": "Alertness",
+    "question_en": "What helps you keep full attention on the road?",
+    "question_pt": "O que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 18,
+    "category": "Alertness",
+    "question_en": "What helps you keep full attention on the road?",
+    "question_pt": "O que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 19,
+    "category": "Alertness",
+    "question_en": "What helps you keep full attention on the road?",
+    "question_pt": "Ao dirigir, o que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 20,
+    "category": "Alertness",
+    "question_en": "What is the best action to take if you feel tired while driving?",
+    "question_pt": "Ao dirigir, o que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 21,
+    "category": "Alertness",
+    "question_en": "While driving, what should you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 22,
+    "category": "Alertness",
+    "question_en": "While driving, why should you scan well ahead while driving?",
+    "question_pt": "Por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 23,
+    "category": "Alertness",
+    "question_en": "Why should you scan well ahead while driving?",
+    "question_pt": "Por que você deve observar bem à frente ao dirigir?",
+    "answer_en": "To spot hazards early",
+    "answer_pt": "Para identificar perigos cedo"
+  },
+  {
+    "id": 24,
+    "category": "Alertness",
+    "question_en": "What must you do if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 25,
+    "category": "Alertness",
+    "question_en": "While driving, what helps you keep full attention on the road?",
+    "question_pt": "O que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  },
+  {
+    "id": 26,
+    "category": "Alertness",
+    "question_en": "What is the best action to take if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 27,
+    "category": "Alertness",
+    "question_en": "What is the best action to take if you feel tired while driving?",
+    "question_pt": "O que fazer se você se sentir cansado ao dirigir?",
+    "answer_en": "Stop somewhere safe and take a break",
+    "answer_pt": "Parar em local seguro e fazer uma pausa"
+  },
+  {
+    "id": 28,
+    "category": "Alertness",
+    "question_en": "What helps you keep full attention on the road?",
+    "question_pt": "Ao dirigir, o que ajuda a manter total atenção na via?",
+    "answer_en": "Avoid using your phone",
+    "answer_pt": "Evitar usar o celular"
+  }
+]

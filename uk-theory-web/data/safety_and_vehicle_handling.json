@@ -1,0 +1,882 @@
+[
+  {
+    "id": 1,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 2,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 3,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 4,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 5,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 6,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, how should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 7,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 8,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 9,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 10,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 11,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 12,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 13,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 14,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 15,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 16,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 17,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 18,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 19,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 20,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 21,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 22,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 23,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, when should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 24,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 25,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 26,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 27,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 28,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 29,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 30,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 31,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 32,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 33,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, when should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 34,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, when should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 35,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 36,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 37,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 38,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 39,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 40,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 41,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 42,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 43,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 44,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 45,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 46,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 47,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 48,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 49,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 50,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 51,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 52,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 53,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 54,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, how should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 55,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 56,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 57,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 58,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 59,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 60,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 61,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 62,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 63,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 64,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 65,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 66,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 67,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 68,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, when should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 69,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 70,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 71,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 72,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 73,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 74,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 75,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 76,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 77,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 78,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 79,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, how should you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 80,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 81,
+    "category": "Safety & vehicle handling",
+    "question_en": "How must you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 82,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 83,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 84,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 85,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 86,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 87,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 88,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 89,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 90,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 91,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 92,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, how should you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 93,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, when should you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 94,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 95,
+    "category": "Safety & vehicle handling",
+    "question_en": "What must you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 96,
+    "category": "Safety & vehicle handling",
+    "question_en": "How must you hold the steering wheel for best control?",
+    "question_pt": "Ao dirigir, como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 97,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 98,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 99,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, what is the safest way to brake in an emergency?",
+    "question_pt": "Ao dirigir, qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 100,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the safest way to brake in an emergency?",
+    "question_pt": "Qual a forma mais segura de frear em emergência?",
+    "answer_en": "Brake firmly and keep control",
+    "answer_pt": "Frear firmemente mantendo controle"
+  },
+  {
+    "id": 101,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 102,
+    "category": "Safety & vehicle handling",
+    "question_en": "While driving, how should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 103,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 104,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 105,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 106,
+    "category": "Safety & vehicle handling",
+    "question_en": "When must you check your mirrors?",
+    "question_pt": "Quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 107,
+    "category": "Safety & vehicle handling",
+    "question_en": "When should you check your mirrors?",
+    "question_pt": "Ao dirigir, quando checar os espelhos?",
+    "answer_en": "Before any change in speed or direction",
+    "answer_pt": "Antes de mudar velocidade ou direção"
+  },
+  {
+    "id": 108,
+    "category": "Safety & vehicle handling",
+    "question_en": "What is the best action to take if your tyres lose grip in rain?",
+    "question_pt": "O que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  },
+  {
+    "id": 109,
+    "category": "Safety & vehicle handling",
+    "question_en": "How should you hold the steering wheel for best control?",
+    "question_pt": "Como segurar o volante para melhor controle?",
+    "answer_en": "With both hands in a comfortable position",
+    "answer_pt": "Com as duas mãos em posição confortável"
+  },
+  {
+    "id": 110,
+    "category": "Safety & vehicle handling",
+    "question_en": "What should you do if your tyres lose grip in rain?",
+    "question_pt": "Ao dirigir, o que fazer se os pneus perderem aderência na chuva?",
+    "answer_en": "Slow down smoothly",
+    "answer_pt": "Reduzir suavemente"
+  }
+]

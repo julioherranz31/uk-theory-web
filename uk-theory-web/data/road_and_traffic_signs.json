@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 1,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 2,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 3,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 4,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 5,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "Ao dirigir, o que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 6,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 7,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 8,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 9,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 10,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 11,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 12,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 13,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 14,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 15,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 16,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 17,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 18,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 19,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 20,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 21,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 22,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 23,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 24,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 25,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "Ao dirigir, o que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 26,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 27,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 28,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 29,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 30,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 31,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 32,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 33,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 34,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 35,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 36,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 37,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 38,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 39,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 40,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 41,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 42,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 43,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 44,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 45,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 46,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 47,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 48,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 49,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 50,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 51,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 52,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 53,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "Ao dirigir, o que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 54,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 55,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 56,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 57,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 58,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 59,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 60,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 61,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 62,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 63,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 64,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 65,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 66,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 67,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 68,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "Ao dirigir, o que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 69,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 70,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 71,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 72,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 73,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 74,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 75,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 76,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 77,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 78,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 79,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 80,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 81,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 82,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 83,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 84,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 85,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 86,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 87,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 88,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 89,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 90,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 91,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 92,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 93,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "Ao dirigir, o que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 94,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 95,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 96,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 97,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 98,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 99,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 100,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 101,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 102,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 103,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 104,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 105,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 106,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 107,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 108,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 109,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 110,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 111,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 112,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do rectangular signs normally provide?",
+    "question_pt": "Ao dirigir, o que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 113,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 114,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 115,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 116,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 117,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "Ao dirigir, o que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 118,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 119,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 120,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 121,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 122,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 123,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 124,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 125,
+    "category": "Road and traffic signs",
+    "question_en": "What do rectangular signs normally provide?",
+    "question_pt": "O que placas retangulares normalmente fornecem?",
+    "answer_en": "Information or directions",
+    "answer_pt": "Informações ou direções"
+  },
+  {
+    "id": 126,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 127,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 128,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 129,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  },
+  {
+    "id": 130,
+    "category": "Road and traffic signs",
+    "question_en": "While driving, what do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 131,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 132,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 133,
+    "category": "Road and traffic signs",
+    "question_en": "What does a blue circular sign usually indicate?",
+    "question_pt": "O que uma placa circular azul geralmente indica?",
+    "answer_en": "A mandatory instruction",
+    "answer_pt": "Uma instrução obrigatória"
+  },
+  {
+    "id": 134,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 135,
+    "category": "Road and traffic signs",
+    "question_en": "What do triangular warning signs generally indicate?",
+    "question_pt": "O que placas triangulares geralmente indicam?",
+    "answer_en": "Hazards ahead",
+    "answer_pt": "Perigos à frente"
+  },
+  {
+    "id": 136,
+    "category": "Road and traffic signs",
+    "question_en": "What does a circular sign with a red border usually tell you?",
+    "question_pt": "O que uma placa circular com borda vermelha indica?",
+    "answer_en": "A rule you must obey",
+    "answer_pt": "Uma regra obrigatória"
+  }
+]

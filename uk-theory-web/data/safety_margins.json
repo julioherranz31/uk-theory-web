@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Safety margins",
+    "question_en": "Why should you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 2,
+    "category": "Safety margins",
+    "question_en": "While driving, why should you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 3,
+    "category": "Safety margins",
+    "question_en": "While driving, when should you increase your following distance?",
+    "question_pt": "Quando aumentar a distância?",
+    "answer_en": "In wet or icy conditions",
+    "answer_pt": "Em chuva ou gelo"
+  },
+  {
+    "id": 4,
+    "category": "Safety margins",
+    "question_en": "Why should you keep space at junctions?",
+    "question_pt": "Ao dirigir, por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 5,
+    "category": "Safety margins",
+    "question_en": "What is a key reason to slow down in fog?",
+    "question_pt": "Qual a razão para reduzir na neblina?",
+    "answer_en": "Visibility is reduced",
+    "answer_pt": "Visibilidade reduzida"
+  },
+  {
+    "id": 6,
+    "category": "Safety margins",
+    "question_en": "While driving, what does a safe following distance give you?",
+    "question_pt": "O que uma distância segura proporciona?",
+    "answer_en": "Time to react and stop safely",
+    "answer_pt": "Tempo para reagir e parar com segurança"
+  },
+  {
+    "id": 7,
+    "category": "Safety margins",
+    "question_en": "While driving, why should you keep space at junctions?",
+    "question_pt": "Ao dirigir, por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 8,
+    "category": "Safety margins",
+    "question_en": "What is a key reason to slow down in fog?",
+    "question_pt": "Ao dirigir, qual a razão para reduzir na neblina?",
+    "answer_en": "Visibility is reduced",
+    "answer_pt": "Visibilidade reduzida"
+  },
+  {
+    "id": 9,
+    "category": "Safety margins",
+    "question_en": "Why should you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 10,
+    "category": "Safety margins",
+    "question_en": "While driving, what is a key reason to slow down in fog?",
+    "question_pt": "Qual a razão para reduzir na neblina?",
+    "answer_en": "Visibility is reduced",
+    "answer_pt": "Visibilidade reduzida"
+  },
+  {
+    "id": 11,
+    "category": "Safety margins",
+    "question_en": "Why must you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 12,
+    "category": "Safety margins",
+    "question_en": "What is a key reason to slow down in fog?",
+    "question_pt": "Qual a razão para reduzir na neblina?",
+    "answer_en": "Visibility is reduced",
+    "answer_pt": "Visibilidade reduzida"
+  },
+  {
+    "id": 13,
+    "category": "Safety margins",
+    "question_en": "When should you increase your following distance?",
+    "question_pt": "Quando aumentar a distância?",
+    "answer_en": "In wet or icy conditions",
+    "answer_pt": "Em chuva ou gelo"
+  },
+  {
+    "id": 14,
+    "category": "Safety margins",
+    "question_en": "Why should you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 15,
+    "category": "Safety margins",
+    "question_en": "What does a safe following distance give you?",
+    "question_pt": "O que uma distância segura proporciona?",
+    "answer_en": "Time to react and stop safely",
+    "answer_pt": "Tempo para reagir e parar com segurança"
+  },
+  {
+    "id": 16,
+    "category": "Safety margins",
+    "question_en": "While driving, why should you keep space at junctions?",
+    "question_pt": "Por que manter espaço em cruzamentos?",
+    "answer_en": "To avoid blocking other traffic",
+    "answer_pt": "Para não bloquear outros veículos"
+  },
+  {
+    "id": 17,
+    "category": "Safety margins",
+    "question_en": "When must you increase your following distance?",
+    "question_pt": "Ao dirigir, quando aumentar a distância?",
+    "answer_en": "In wet or icy conditions",
+    "answer_pt": "Em chuva ou gelo"
+  },
+  {
+    "id": 18,
+    "category": "Safety margins",
+    "question_en": "What is a key reason to slow down in fog?",
+    "question_pt": "Ao dirigir, qual a razão para reduzir na neblina?",
+    "answer_en": "Visibility is reduced",
+    "answer_pt": "Visibilidade reduzida"
+  },
+  {
+    "id": 19,
+    "category": "Safety margins",
+    "question_en": "While driving, what does a safe following distance give you?",
+    "question_pt": "O que uma distância segura proporciona?",
+    "answer_en": "Time to react and stop safely",
+    "answer_pt": "Tempo para reagir e parar com segurança"
+  },
+  {
+    "id": 20,
+    "category": "Safety margins",
+    "question_en": "What does a safe following distance give you?",
+    "question_pt": "O que uma distância segura proporciona?",
+    "answer_en": "Time to react and stop safely",
+    "answer_pt": "Tempo para reagir e parar com segurança"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, why should you be cautious near motorcycles?",
+    "question_pt": "Por que ter cuidado com motos?",
+    "answer_en": "They can be harder to see",
+    "answer_pt": "Elas podem ser mais difíceis de ver"
+  },
+  {
+    "id": 2,
+    "category": "Other types of vehicle",
+    "question_en": "What must you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 3,
+    "category": "Other types of vehicle",
+    "question_en": "Why should you be cautious near motorcycles?",
+    "question_pt": "Qual o motivo de ter cuidado com motos?",
+    "answer_en": "They can be harder to see",
+    "answer_pt": "Elas podem ser mais difíceis de ver"
+  },
+  {
+    "id": 4,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, what should you do near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 5,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, what should you do near horse riders?",
+    "question_pt": "Ao dirigir, o que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 6,
+    "category": "Other types of vehicle",
+    "question_en": "What must you do near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 7,
+    "category": "Other types of vehicle",
+    "question_en": "What must you do near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 8,
+    "category": "Other types of vehicle",
+    "question_en": "What should you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 9,
+    "category": "Other types of vehicle",
+    "question_en": "What is the best action to take when approaching a large vehicle at a junction?",
+    "question_pt": "Ao dirigir, o que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 10,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, what should you do near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 11,
+    "category": "Other types of vehicle",
+    "question_en": "What is the best action to take near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 12,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, what should you do when approaching a large vehicle at a junction?",
+    "question_pt": "Ao dirigir, o que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 13,
+    "category": "Other types of vehicle",
+    "question_en": "What should you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 14,
+    "category": "Other types of vehicle",
+    "question_en": "What should you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 15,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, why do buses often pull out from stops?",
+    "question_pt": "Por que ônibus saem de paradas com frequência?",
+    "answer_en": "They may rejoin traffic frequently",
+    "answer_pt": "Eles entram no tráfego com frequência"
+  },
+  {
+    "id": 16,
+    "category": "Other types of vehicle",
+    "question_en": "While driving, what should you do near horse riders?",
+    "question_pt": "O que fazer perto de cavaleiros?",
+    "answer_en": "Slow down and pass wide and slow",
+    "answer_pt": "Reduzir e passar devagar e afastado"
+  },
+  {
+    "id": 17,
+    "category": "Other types of vehicle",
+    "question_en": "What must you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 18,
+    "category": "Other types of vehicle",
+    "question_en": "What must you do when approaching a large vehicle at a junction?",
+    "question_pt": "O que fazer ao se aproximar de um veículo grande no cruzamento?",
+    "answer_en": "Give it extra space to turn",
+    "answer_pt": "Dar espaço extra para ele virar"
+  },
+  {
+    "id": 19,
+    "category": "Other types of vehicle",
+    "question_en": "Why do buses often pull out from stops?",
+    "question_pt": "Por que ônibus saem de paradas com frequência?",
+    "answer_en": "They may rejoin traffic frequently",
+    "answer_pt": "Eles entram no tráfego com frequência"
+  },
+  {
+    "id": 20,
+    "category": "Other types of vehicle",
+    "question_en": "Why should you be cautious near motorcycles?",
+    "question_pt": "Por que ter cuidado com motos?",
+    "answer_en": "They can be harder to see",
+    "answer_pt": "Elas podem ser mais difíceis de ver"
+  }
+]

@@ -1,0 +1,826 @@
+[
+  {
+    "id": 1,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 2,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 3,
+    "category": "Rules of the road",
+    "question_en": "While driving, when should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 4,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 5,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 6,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Ao dirigir, quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 7,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 8,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 9,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 10,
+    "category": "Rules of the road",
+    "question_en": "While driving, when should you use your indicators?",
+    "question_pt": "Ao dirigir, quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 11,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Ao dirigir, quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 12,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 13,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 14,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 15,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 16,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 17,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 18,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 19,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 20,
+    "category": "Rules of the road",
+    "question_en": "What is the best action to take at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 21,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 22,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 23,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 24,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 25,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 26,
+    "category": "Rules of the road",
+    "question_en": "While driving, what does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 27,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 28,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 29,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 30,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 31,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 32,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 33,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 34,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 35,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 36,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 37,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 38,
+    "category": "Rules of the road",
+    "question_en": "While driving, what does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 39,
+    "category": "Rules of the road",
+    "question_en": "While driving, when should you use your indicators?",
+    "question_pt": "Ao dirigir, quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 40,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Ao dirigir, quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 41,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 42,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 43,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 44,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 45,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 46,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 47,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 48,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 49,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 50,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 51,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 52,
+    "category": "Rules of the road",
+    "question_en": "While driving, when should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 53,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 54,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 55,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 56,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 57,
+    "category": "Rules of the road",
+    "question_en": "While driving, who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 58,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 59,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 60,
+    "category": "Rules of the road",
+    "question_en": "While driving, who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 61,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 62,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 63,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 64,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Ao dirigir, quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 65,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 66,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 67,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 68,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 69,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 70,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 71,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 72,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 73,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 74,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 75,
+    "category": "Rules of the road",
+    "question_en": "While driving, what does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 76,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 77,
+    "category": "Rules of the road",
+    "question_en": "What is the best action to take at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 78,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 79,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 80,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 81,
+    "category": "Rules of the road",
+    "question_en": "While driving, who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 82,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 83,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Ao dirigir, quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 84,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 85,
+    "category": "Rules of the road",
+    "question_en": "When must you use your indicators?",
+    "question_pt": "Ao dirigir, quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 86,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 87,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 88,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 89,
+    "category": "Rules of the road",
+    "question_en": "While driving, when should you use your indicators?",
+    "question_pt": "Quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 90,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Ao dirigir, quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 91,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "Ao dirigir, o que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 92,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 93,
+    "category": "Rules of the road",
+    "question_en": "What is the best action to take at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 94,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 95,
+    "category": "Rules of the road",
+    "question_en": "What is the best action to take at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 96,
+    "category": "Rules of the road",
+    "question_en": "While driving, what should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 97,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "Ao dirigir, o que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 98,
+    "category": "Rules of the road",
+    "question_en": "Who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  },
+  {
+    "id": 99,
+    "category": "Rules of the road",
+    "question_en": "What does a red traffic light mean?",
+    "question_pt": "O que significa semáforo vermelho?",
+    "answer_en": "Stop behind the stop line",
+    "answer_pt": "Parar atrás da linha"
+  },
+  {
+    "id": 100,
+    "category": "Rules of the road",
+    "question_en": "What must you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 101,
+    "category": "Rules of the road",
+    "question_en": "When should you use your indicators?",
+    "question_pt": "Ao dirigir, quando usar setas?",
+    "answer_en": "Before changing direction",
+    "answer_pt": "Antes de mudar de direção"
+  },
+  {
+    "id": 102,
+    "category": "Rules of the road",
+    "question_en": "What should you do at a 'Give Way' sign?",
+    "question_pt": "O que fazer em placa 'Give Way'?",
+    "answer_en": "Slow down and give priority if needed",
+    "answer_pt": "Reduzir e dar prioridade se necessário"
+  },
+  {
+    "id": 103,
+    "category": "Rules of the road",
+    "question_en": "While driving, who has priority at a zebra crossing?",
+    "question_pt": "Quem tem prioridade na faixa zebra?",
+    "answer_en": "Pedestrians waiting to cross",
+    "answer_pt": "Pedestres aguardando para atravessar"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1,
+    "category": "Documents",
+    "question_en": "While driving, when should you report a collision to your insurer?",
+    "question_pt": "Quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 2,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 3,
+    "category": "Documents",
+    "question_en": "What must you have to drive a vehicle you own on the road?",
+    "question_pt": "O que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 4,
+    "category": "Documents",
+    "question_en": "What must you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 5,
+    "category": "Documents",
+    "question_en": "While driving, when should you report a collision to your insurer?",
+    "question_pt": "Ao dirigir, quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 6,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "Ao dirigir, o que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 7,
+    "category": "Documents",
+    "question_en": "When must you report a collision to your insurer?",
+    "question_pt": "Quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 8,
+    "category": "Documents",
+    "question_en": "What should you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 9,
+    "category": "Documents",
+    "question_en": "What must you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 10,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 11,
+    "category": "Documents",
+    "question_en": "What should you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 12,
+    "category": "Documents",
+    "question_en": "While driving, what does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 13,
+    "category": "Documents",
+    "question_en": "When must you report a collision to your insurer?",
+    "question_pt": "Quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 14,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 15,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 16,
+    "category": "Documents",
+    "question_en": "While driving, what must you have to drive a vehicle you own on the road?",
+    "question_pt": "O que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 17,
+    "category": "Documents",
+    "question_en": "What must you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 18,
+    "category": "Documents",
+    "question_en": "What must you have to drive a vehicle you own on the road?",
+    "question_pt": "O que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 19,
+    "category": "Documents",
+    "question_en": "What must you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 20,
+    "category": "Documents",
+    "question_en": "What must you have to drive a vehicle you own on the road?",
+    "question_pt": "Ao dirigir, o que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 21,
+    "category": "Documents",
+    "question_en": "What must you do if your driving licence details change?",
+    "question_pt": "O que fazer se os dados da carteira mudarem?",
+    "answer_en": "Update the licensing authority",
+    "answer_pt": "Atualizar junto à autoridade competente"
+  },
+  {
+    "id": 22,
+    "category": "Documents",
+    "question_en": "While driving, what must you have to drive a vehicle you own on the road?",
+    "question_pt": "O que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 23,
+    "category": "Documents",
+    "question_en": "While driving, what must you have to drive a vehicle you own on the road?",
+    "question_pt": "Ao dirigir, o que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 24,
+    "category": "Documents",
+    "question_en": "While driving, what does MOT relate to for most cars over a certain age?",
+    "question_pt": "Ao dirigir, o que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 25,
+    "category": "Documents",
+    "question_en": "When should you report a collision to your insurer?",
+    "question_pt": "Quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 26,
+    "category": "Documents",
+    "question_en": "When must you report a collision to your insurer?",
+    "question_pt": "Ao dirigir, quando você deve informar uma colisão ao seguro?",
+    "answer_en": "As soon as possible",
+    "answer_pt": "O mais rápido possível"
+  },
+  {
+    "id": 27,
+    "category": "Documents",
+    "question_en": "What must you have to drive a vehicle you own on the road?",
+    "question_pt": "O que você precisa para dirigir seu veículo na via?",
+    "answer_en": "Valid insurance",
+    "answer_pt": "Seguro válido"
+  },
+  {
+    "id": 28,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "O que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  },
+  {
+    "id": 29,
+    "category": "Documents",
+    "question_en": "What does MOT relate to for most cars over a certain age?",
+    "question_pt": "Ao dirigir, o que é o MOT para a maioria dos carros acima de certa idade?",
+    "answer_en": "Roadworthiness test certificate",
+    "answer_pt": "Certificado de inspeção de segurança"
+  }
+]

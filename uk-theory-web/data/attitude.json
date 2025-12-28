@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "category": "Attitude",
+    "question_en": "What must you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 2,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 3,
+    "category": "Attitude",
+    "question_en": "What should you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 4,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 5,
+    "category": "Attitude",
+    "question_en": "What must you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 6,
+    "category": "Attitude",
+    "question_en": "While driving, how should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 7,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Ao dirigir, que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 8,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 9,
+    "category": "Attitude",
+    "question_en": "While driving, what should you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 10,
+    "category": "Attitude",
+    "question_en": "While driving, what should you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 11,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 12,
+    "category": "Attitude",
+    "question_en": "What must you do if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 13,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 14,
+    "category": "Attitude",
+    "question_en": "How should you respond to aggressive driving?",
+    "question_pt": "Ao dirigir, como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 15,
+    "category": "Attitude",
+    "question_en": "How must you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 16,
+    "category": "Attitude",
+    "question_en": "What is the best action to take if another driver makes a mistake?",
+    "question_pt": "O que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 17,
+    "category": "Attitude",
+    "question_en": "While driving, what is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 18,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 19,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 20,
+    "category": "Attitude",
+    "question_en": "How must you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 21,
+    "category": "Attitude",
+    "question_en": "While driving, what is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 22,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 23,
+    "category": "Attitude",
+    "question_en": "While driving, what should you do if another driver makes a mistake?",
+    "question_pt": "Ao dirigir, o que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 24,
+    "category": "Attitude",
+    "question_en": "How must you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 25,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Ao dirigir, qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 26,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 27,
+    "category": "Attitude",
+    "question_en": "While driving, what is the safest mindset in heavy traffic?",
+    "question_pt": "Ao dirigir, qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 28,
+    "category": "Attitude",
+    "question_en": "While driving, how should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 29,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 30,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 31,
+    "category": "Attitude",
+    "question_en": "How should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 32,
+    "category": "Attitude",
+    "question_en": "What is the safest mindset in heavy traffic?",
+    "question_pt": "Qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  },
+  {
+    "id": 33,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 34,
+    "category": "Attitude",
+    "question_en": "What approach helps keep everyone safe on the road?",
+    "question_pt": "Que atitude ajuda a manter todos seguros?",
+    "answer_en": "Be patient and considerate",
+    "answer_pt": "Ser paciente e atencioso"
+  },
+  {
+    "id": 35,
+    "category": "Attitude",
+    "question_en": "How should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 36,
+    "category": "Attitude",
+    "question_en": "How should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 37,
+    "category": "Attitude",
+    "question_en": "What is the best action to take if another driver makes a mistake?",
+    "question_pt": "Ao dirigir, o que fazer se outro motorista errar?",
+    "answer_en": "Stay calm and give them space",
+    "answer_pt": "Manter a calma e dar espaço"
+  },
+  {
+    "id": 38,
+    "category": "Attitude",
+    "question_en": "How should you respond to aggressive driving?",
+    "question_pt": "Como reagir a direção agressiva?",
+    "answer_en": "Do not react; keep a safe distance",
+    "answer_pt": "Não reagir; manter distância segura"
+  },
+  {
+    "id": 39,
+    "category": "Attitude",
+    "question_en": "While driving, what is the safest mindset in heavy traffic?",
+    "question_pt": "Ao dirigir, qual é a mentalidade mais segura no trânsito intenso?",
+    "answer_en": "Plan ahead and avoid rushing",
+    "answer_pt": "Planejar e evitar pressa"
+  }
+]

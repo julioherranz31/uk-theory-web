@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>UK Theory Study (EN + PT)</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <button class="iconbtn" id="backBtn" aria-label="Back" title="Back">←</button>
+      <div class="titlewrap">
+        <div class="title">Categories to practise</div>
+        <div class="subtitle" id="subtitle">Loading…</div>
+      </div>
+      <div class="spacer"></div>
+    </header>
+
+    <!-- LOGIN -->
+    <main id="loginView" class="view">
+      <div class="card">
+        <h2>Login</h2>
+        <p class="muted">Use any name + PIN. Your progress will be saved in this browser.</p>
+        <label class="lbl">Name</label>
+        <input id="nameInput" class="input" placeholder="e.g., Ana" />
+        <label class="lbl">PIN</label>
+        <input id="pinInput" class="input" placeholder="4 digits" inputmode="numeric" maxlength="10" />
+        <button id="loginBtn" class="btn primary">Enter</button>
+        <button id="guestBtn" class="btn">Continue as guest</button>
+      </div>
+    </main>
+
+    <!-- CATEGORIES -->
+    <main id="categoriesView" class="view hidden">
+      <div id="categoriesList" class="list"></div>
+      <div class="bottom">
+        <button id="startAllBtn" class="btn primary big">START</button>
+      </div>
+    </main>
+
+    <!-- STUDY -->
+    <main id="studyView" class="view hidden">
+      <div class="studycard">
+        <div class="pill" id="catPill">Category</div>
+        <div class="qblock">
+          <div class="qline"><span class="flag">🇬🇧</span> <span id="qEn"></span></div>
+          <div class="qline"><span class="flag">🇧🇷</span> <span id="qPt"></span></div>
+        </div>
+        <div class="ablock">
+          <div class="aline ok">✔ <span id="aEn"></span></div>
+          <div class="aline ok">✔ <span id="aPt"></span></div>
+        </div>
+        <div class="actions">
+          <button id="knewBtn" class="btn success">I got it</button>
+          <button id="reviewBtn" class="btn warn">Need review</button>
+        </div>
+        <div class="navrow">
+          <button id="prevBtn" class="btn">Prev</button>
+          <div class="counter" id="counter">1/1</div>
+          <button id="nextBtn" class="btn primary">Next</button>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footnote">
+      <span>Study-only content (reformulated). Not an official DVSA question bank.</span>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

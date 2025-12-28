@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "category": "Weather & environment",
+    "question_en": "When must you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 2,
+    "category": "Weather & environment",
+    "question_en": "What is the best action to take if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 3,
+    "category": "Weather & environment",
+    "question_en": "What should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 4,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 5,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 6,
+    "category": "Weather & environment",
+    "question_en": "While driving, what is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 7,
+    "category": "Weather & environment",
+    "question_en": "While driving, what is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 8,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 9,
+    "category": "Weather & environment",
+    "question_en": "How must you drive in heavy rain?",
+    "question_pt": "Como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 10,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Ao dirigir, qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 11,
+    "category": "Weather & environment",
+    "question_en": "How should you drive in heavy rain?",
+    "question_pt": "Como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 12,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 13,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 14,
+    "category": "Weather & environment",
+    "question_en": "While driving, what should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 15,
+    "category": "Weather & environment",
+    "question_en": "While driving, what is a risk on rural roads in autumn?",
+    "question_pt": "Ao dirigir, qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 16,
+    "category": "Weather & environment",
+    "question_en": "What is the best action to take if you are dazzled by oncoming headlights?",
+    "question_pt": "Ao dirigir, o que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 17,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 18,
+    "category": "Weather & environment",
+    "question_en": "How should you drive in heavy rain?",
+    "question_pt": "Ao dirigir, como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 19,
+    "category": "Weather & environment",
+    "question_en": "When must you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 20,
+    "category": "Weather & environment",
+    "question_en": "While driving, what should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 21,
+    "category": "Weather & environment",
+    "question_en": "What is the best action to take if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 22,
+    "category": "Weather & environment",
+    "question_en": "While driving, when should you use dipped headlights in daytime?",
+    "question_pt": "Ao dirigir, quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 23,
+    "category": "Weather & environment",
+    "question_en": "How should you drive in heavy rain?",
+    "question_pt": "Como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 24,
+    "category": "Weather & environment",
+    "question_en": "What is the best action to take if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 25,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 26,
+    "category": "Weather & environment",
+    "question_en": "What should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "Ao dirigir, o que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 27,
+    "category": "Weather & environment",
+    "question_en": "How must you drive in heavy rain?",
+    "question_pt": "Como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 28,
+    "category": "Weather & environment",
+    "question_en": "While driving, how should you drive in heavy rain?",
+    "question_pt": "Ao dirigir, como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 29,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 30,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 31,
+    "category": "Weather & environment",
+    "question_en": "What is the best action to take if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 32,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 33,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 34,
+    "category": "Weather & environment",
+    "question_en": "What is a risk on rural roads in autumn?",
+    "question_pt": "Qual um risco em estradas rurais no outono?",
+    "answer_en": "Slippery leaves",
+    "answer_pt": "Folhas escorregadias"
+  },
+  {
+    "id": 35,
+    "category": "Weather & environment",
+    "question_en": "While driving, what should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "Ao dirigir, o que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  },
+  {
+    "id": 36,
+    "category": "Weather & environment",
+    "question_en": "When should you use dipped headlights in daytime?",
+    "question_pt": "Quando usar farol baixo de dia?",
+    "answer_en": "When visibility is poor",
+    "answer_pt": "Quando a visibilidade estiver ruim"
+  },
+  {
+    "id": 37,
+    "category": "Weather & environment",
+    "question_en": "How must you drive in heavy rain?",
+    "question_pt": "Como dirigir sob chuva forte?",
+    "answer_en": "Slow down and increase following distance",
+    "answer_pt": "Reduzir e aumentar distância"
+  },
+  {
+    "id": 38,
+    "category": "Weather & environment",
+    "question_en": "While driving, what should you do if you are dazzled by oncoming headlights?",
+    "question_pt": "O que fazer se for ofuscado por faróis?",
+    "answer_en": "Slow down and keep to the left",
+    "answer_pt": "Reduzir e manter-se à esquerda"
+  }
+]

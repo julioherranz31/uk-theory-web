@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "category": "Vehicle condition",
+    "question_en": "What must you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 2,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "Ao dirigir, o que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 3,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 4,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 5,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "Ao dirigir, o que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 6,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 7,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Qual o motivo de manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 8,
+    "category": "Vehicle condition",
+    "question_en": "What must you check before a long trip?",
+    "question_pt": "Ao dirigir, o que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 9,
+    "category": "Vehicle condition",
+    "question_en": "While driving, why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 10,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 11,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 12,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 13,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 14,
+    "category": "Vehicle condition",
+    "question_en": "What should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 15,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Qual o motivo de os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 16,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 17,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 18,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 19,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Ao dirigir, por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 20,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "Ao dirigir, o que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 21,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "Ao dirigir, o que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 22,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 23,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 24,
+    "category": "Vehicle condition",
+    "question_en": "While driving, why must your tyres have enough tread?",
+    "question_pt": "Por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 25,
+    "category": "Vehicle condition",
+    "question_en": "What should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 26,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Qual o motivo de manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 27,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 28,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 29,
+    "category": "Vehicle condition",
+    "question_en": "While driving, why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 30,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 31,
+    "category": "Vehicle condition",
+    "question_en": "While driving, why should lights be kept clean?",
+    "question_pt": "Qual o motivo de manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 32,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 33,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Ao dirigir, por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 34,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 35,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 36,
+    "category": "Vehicle condition",
+    "question_en": "What should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 37,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what should you check before a long trip?",
+    "question_pt": "O que checar antes de uma viagem longa?",
+    "answer_en": "Tyres, lights, oil and coolant",
+    "answer_pt": "Pneus, luzes, óleo e arrefecimento"
+  },
+  {
+    "id": 38,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Ao dirigir, por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 39,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "O que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 40,
+    "category": "Vehicle condition",
+    "question_en": "While driving, what can faulty brakes increase?",
+    "question_pt": "Ao dirigir, o que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 41,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Qual o motivo de manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 42,
+    "category": "Vehicle condition",
+    "question_en": "What can faulty brakes increase?",
+    "question_pt": "Ao dirigir, o que freios defeituosos aumentam?",
+    "answer_en": "Stopping distance",
+    "answer_pt": "Distância de parada"
+  },
+  {
+    "id": 43,
+    "category": "Vehicle condition",
+    "question_en": "Why should lights be kept clean?",
+    "question_pt": "Qual o motivo de manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  },
+  {
+    "id": 44,
+    "category": "Vehicle condition",
+    "question_en": "Why must your tyres have enough tread?",
+    "question_pt": "Ao dirigir, por que os pneus devem ter sulco suficiente?",
+    "answer_en": "To maintain grip and braking performance",
+    "answer_pt": "Para manter aderência e frenagem"
+  },
+  {
+    "id": 45,
+    "category": "Vehicle condition",
+    "question_en": "While driving, why should lights be kept clean?",
+    "question_pt": "Ao dirigir, por que manter as luzes limpas?",
+    "answer_en": "So others can see you clearly",
+    "answer_pt": "Para que outros vejam você claramente"
+  }
+]

@@ -1,0 +1,258 @@
+[
+  {
+    "id": 1,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 2,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 3,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 4,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What must you do if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 5,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 6,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what should you do if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 7,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what should you do if your vehicle breaks down on a motorway?",
+    "question_pt": "Ao dirigir, o que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 8,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What should you do if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 9,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 10,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What should you do if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 11,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, why should you use warning triangles with care?",
+    "question_pt": "Por que usar triângulo com cuidado?",
+    "answer_en": "To warn others without putting yourself at risk",
+    "answer_pt": "Para avisar sem se colocar em risco"
+  },
+  {
+    "id": 12,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "Why should you use warning triangles with care?",
+    "question_pt": "Por que usar triângulo com cuidado?",
+    "answer_en": "To warn others without putting yourself at risk",
+    "answer_pt": "Para avisar sem se colocar em risco"
+  },
+  {
+    "id": 13,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 14,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what should you do if someone is injured after a crash?",
+    "question_pt": "Ao dirigir, o que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 15,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "Ao dirigir, o que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 16,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "Ao dirigir, o que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 17,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 18,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What must you do if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 19,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what should you do if your vehicle breaks down on a motorway?",
+    "question_pt": "Ao dirigir, o que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 20,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "Why should you use warning triangles with care?",
+    "question_pt": "Qual o motivo de usar triângulo com cuidado?",
+    "answer_en": "To warn others without putting yourself at risk",
+    "answer_pt": "Para avisar sem se colocar em risco"
+  },
+  {
+    "id": 21,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 22,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 23,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 24,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what should you do if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 25,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if someone is injured after a crash?",
+    "question_pt": "O que fazer se alguém estiver ferido?",
+    "answer_en": "Call emergency services",
+    "answer_pt": "Chamar os serviços de emergência"
+  },
+  {
+    "id": 26,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 27,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 28,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What should you do if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 29,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what is the first priority at the scene of a collision?",
+    "question_pt": "Qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 30,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "While driving, what is the first priority at the scene of a collision?",
+    "question_pt": "Ao dirigir, qual a primeira prioridade em uma colisão?",
+    "answer_en": "Make the area safe and prevent further danger",
+    "answer_pt": "Tornar o local seguro e evitar mais perigo"
+  },
+  {
+    "id": 31,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  },
+  {
+    "id": 32,
+    "category": "Incidents, accidents & emergencies",
+    "question_en": "What is the best action to take if your vehicle breaks down on a motorway?",
+    "question_pt": "O que fazer se o carro quebrar na motorway?",
+    "answer_en": "Pull onto the hard shoulder if possible and leave the vehicle safely",
+    "answer_pt": "Ir para o acostamento se possível e sair com segurança"
+  }
+]

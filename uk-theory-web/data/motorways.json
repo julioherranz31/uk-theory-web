@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "O que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 2,
+    "category": "Motorways",
+    "question_en": "When should you use the hard shoulder?",
+    "question_pt": "Quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  },
+  {
+    "id": 3,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "Ao dirigir, o que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 4,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "Ao dirigir, o que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 5,
+    "category": "Motorways",
+    "question_en": "What is the best action to take before joining a motorway?",
+    "question_pt": "Ao dirigir, o que fazer antes de entrar na motorway?",
+    "answer_en": "Match your speed to the traffic on the slip road",
+    "answer_pt": "Ajustar a velocidade na via de acesso"
+  },
+  {
+    "id": 6,
+    "category": "Motorways",
+    "question_en": "While driving, what should you do before joining a motorway?",
+    "question_pt": "O que fazer antes de entrar na motorway?",
+    "answer_en": "Match your speed to the traffic on the slip road",
+    "answer_pt": "Ajustar a velocidade na via de acesso"
+  },
+  {
+    "id": 7,
+    "category": "Motorways",
+    "question_en": "While driving, when should you use the hard shoulder?",
+    "question_pt": "Quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  },
+  {
+    "id": 8,
+    "category": "Motorways",
+    "question_en": "When must you use the hard shoulder?",
+    "question_pt": "Quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  },
+  {
+    "id": 9,
+    "category": "Motorways",
+    "question_en": "When should you use the hard shoulder?",
+    "question_pt": "Ao dirigir, quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  },
+  {
+    "id": 10,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "Ao dirigir, o que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 11,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "O que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 12,
+    "category": "Motorways",
+    "question_en": "What should you do before joining a motorway?",
+    "question_pt": "Ao dirigir, o que fazer antes de entrar na motorway?",
+    "answer_en": "Match your speed to the traffic on the slip road",
+    "answer_pt": "Ajustar a velocidade na via de acesso"
+  },
+  {
+    "id": 13,
+    "category": "Motorways",
+    "question_en": "While driving, what does a red X above a motorway lane mean?",
+    "question_pt": "O que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 14,
+    "category": "Motorways",
+    "question_en": "What is the best action to take if you miss your motorway exit?",
+    "question_pt": "O que fazer se perder a saída?",
+    "answer_en": "Continue to the next exit",
+    "answer_pt": "Seguir até a próxima saída"
+  },
+  {
+    "id": 15,
+    "category": "Motorways",
+    "question_en": "What must you do before joining a motorway?",
+    "question_pt": "O que fazer antes de entrar na motorway?",
+    "answer_en": "Match your speed to the traffic on the slip road",
+    "answer_pt": "Ajustar a velocidade na via de acesso"
+  },
+  {
+    "id": 16,
+    "category": "Motorways",
+    "question_en": "When should you use the hard shoulder?",
+    "question_pt": "Quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  },
+  {
+    "id": 17,
+    "category": "Motorways",
+    "question_en": "While driving, what should you do if you miss your motorway exit?",
+    "question_pt": "O que fazer se perder a saída?",
+    "answer_en": "Continue to the next exit",
+    "answer_pt": "Seguir até a próxima saída"
+  },
+  {
+    "id": 18,
+    "category": "Motorways",
+    "question_en": "What must you do if you miss your motorway exit?",
+    "question_pt": "O que fazer se perder a saída?",
+    "answer_en": "Continue to the next exit",
+    "answer_pt": "Seguir até a próxima saída"
+  },
+  {
+    "id": 19,
+    "category": "Motorways",
+    "question_en": "What does a red X above a motorway lane mean?",
+    "question_pt": "O que significa um X vermelho sobre a faixa?",
+    "answer_en": "The lane is closed",
+    "answer_pt": "A faixa está fechada"
+  },
+  {
+    "id": 20,
+    "category": "Motorways",
+    "question_en": "When must you use the hard shoulder?",
+    "question_pt": "Quando usar o acostamento (hard shoulder)?",
+    "answer_en": "Only in an emergency",
+    "answer_pt": "Apenas em emergência"
+  }
+]

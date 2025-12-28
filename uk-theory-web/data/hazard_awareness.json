@@ -1,0 +1,642 @@
+[
+  {
+    "id": 1,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 2,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 3,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 4,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 5,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Ao dirigir, por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 6,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 7,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 8,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "Ao dirigir, o que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 9,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 10,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 11,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 12,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Qual o motivo de aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 13,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 14,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 15,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 16,
+    "category": "Hazard awareness",
+    "question_en": "While driving, why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 17,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Qual o motivo de aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 18,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 19,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 20,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 21,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 22,
+    "category": "Hazard awareness",
+    "question_en": "While driving, why should you increase following distance in traffic?",
+    "question_pt": "Ao dirigir, por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 23,
+    "category": "Hazard awareness",
+    "question_en": "Why must you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 24,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 25,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take near parked vehicles on a busy street?",
+    "question_pt": "Ao dirigir, o que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 26,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "Ao dirigir, o que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 27,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 28,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 29,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 30,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 31,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 32,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 33,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 34,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 35,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 36,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 37,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 38,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 39,
+    "category": "Hazard awareness",
+    "question_en": "Why must you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 40,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 41,
+    "category": "Hazard awareness",
+    "question_en": "What must you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 42,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Qual o motivo de aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 43,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 44,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 45,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 46,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 47,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do when you see a hazard developing ahead?",
+    "question_pt": "Ao dirigir, o que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 48,
+    "category": "Hazard awareness",
+    "question_en": "What must you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 49,
+    "category": "Hazard awareness",
+    "question_en": "Why must you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 50,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 51,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 52,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 53,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 54,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 55,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 56,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Ao dirigir, por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 57,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "Ao dirigir, o que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 58,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Ao dirigir, qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 59,
+    "category": "Hazard awareness",
+    "question_en": "What must you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 60,
+    "category": "Hazard awareness",
+    "question_en": "What must you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 61,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 62,
+    "category": "Hazard awareness",
+    "question_en": "Why must you increase following distance in traffic?",
+    "question_pt": "Qual o motivo de aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 63,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 64,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 65,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 66,
+    "category": "Hazard awareness",
+    "question_en": "What is the best action to take when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 67,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 68,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 69,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 70,
+    "category": "Hazard awareness",
+    "question_en": "What must you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 71,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "Ao dirigir, o que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 72,
+    "category": "Hazard awareness",
+    "question_en": "What must you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  },
+  {
+    "id": 73,
+    "category": "Hazard awareness",
+    "question_en": "While driving, why should you increase following distance in traffic?",
+    "question_pt": "Ao dirigir, por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 74,
+    "category": "Hazard awareness",
+    "question_en": "What is a common warning sign of a hazard at night?",
+    "question_pt": "Qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 75,
+    "category": "Hazard awareness",
+    "question_en": "While driving, why should you increase following distance in traffic?",
+    "question_pt": "Por que aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 76,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 77,
+    "category": "Hazard awareness",
+    "question_en": "While driving, what is a common warning sign of a hazard at night?",
+    "question_pt": "Ao dirigir, qual é um sinal comum de perigo à noite?",
+    "answer_en": "Brake lights ahead",
+    "answer_pt": "Luzes de freio à frente"
+  },
+  {
+    "id": 78,
+    "category": "Hazard awareness",
+    "question_en": "What should you do when you see a hazard developing ahead?",
+    "question_pt": "O que fazer ao ver um perigo se formando à frente?",
+    "answer_en": "Ease off the accelerator and be ready to stop",
+    "answer_pt": "Tirar o pé do acelerador e estar pronto para parar"
+  },
+  {
+    "id": 79,
+    "category": "Hazard awareness",
+    "question_en": "Why should you increase following distance in traffic?",
+    "question_pt": "Qual o motivo de aumentar a distância de seguimento no trânsito?",
+    "answer_en": "To give more time to react",
+    "answer_pt": "Para ter mais tempo de reação"
+  },
+  {
+    "id": 80,
+    "category": "Hazard awareness",
+    "question_en": "What should you do near parked vehicles on a busy street?",
+    "question_pt": "O que fazer perto de carros estacionados em rua movimentada?",
+    "answer_en": "Watch for doors opening and people stepping out",
+    "answer_pt": "Observar portas abrindo e pessoas saindo"
+  }
+]

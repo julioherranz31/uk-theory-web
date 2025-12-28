@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Qual o motivo de é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 2,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Ao dirigir, por que é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 3,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Qual o motivo de é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 4,
+    "category": "Vehicle loading",
+    "question_en": "While driving, why is it important to secure a load?",
+    "question_pt": "Qual o motivo de é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 5,
+    "category": "Vehicle loading",
+    "question_en": "What should you check after loading a roof rack?",
+    "question_pt": "O que checar após carregar no teto?",
+    "answer_en": "That the load is secure and within limits",
+    "answer_pt": "Se está bem preso e dentro do limite"
+  },
+  {
+    "id": 6,
+    "category": "Vehicle loading",
+    "question_en": "While driving, what should you check after loading a roof rack?",
+    "question_pt": "O que checar após carregar no teto?",
+    "answer_en": "That the load is secure and within limits",
+    "answer_pt": "Se está bem preso e dentro do limite"
+  },
+  {
+    "id": 7,
+    "category": "Vehicle loading",
+    "question_en": "While driving, why is it important to secure a load?",
+    "question_pt": "Por que é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 8,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Por que é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 9,
+    "category": "Vehicle loading",
+    "question_en": "While driving, why is it important to secure a load?",
+    "question_pt": "Qual o motivo de é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 10,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Por que é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  },
+  {
+    "id": 11,
+    "category": "Vehicle loading",
+    "question_en": "What should you do if a trailer starts to snake?",
+    "question_pt": "O que fazer se o reboque começar a oscilar?",
+    "answer_en": "Ease off the accelerator and avoid sharp steering",
+    "answer_pt": "Tirar o pé e evitar movimentos bruscos"
+  },
+  {
+    "id": 12,
+    "category": "Vehicle loading",
+    "question_en": "How can an overloaded car affect driving?",
+    "question_pt": "Como carro sobrecarregado afeta a condução?",
+    "answer_en": "It can increase stopping distance",
+    "answer_pt": "Pode aumentar a distância de parada"
+  },
+  {
+    "id": 13,
+    "category": "Vehicle loading",
+    "question_en": "While driving, what should you do if a trailer starts to snake?",
+    "question_pt": "Ao dirigir, o que fazer se o reboque começar a oscilar?",
+    "answer_en": "Ease off the accelerator and avoid sharp steering",
+    "answer_pt": "Tirar o pé e evitar movimentos bruscos"
+  },
+  {
+    "id": 14,
+    "category": "Vehicle loading",
+    "question_en": "What should you check after loading a roof rack?",
+    "question_pt": "O que checar após carregar no teto?",
+    "answer_en": "That the load is secure and within limits",
+    "answer_pt": "Se está bem preso e dentro do limite"
+  },
+  {
+    "id": 15,
+    "category": "Vehicle loading",
+    "question_en": "How can an overloaded car affect driving?",
+    "question_pt": "Como carro sobrecarregado afeta a condução?",
+    "answer_en": "It can increase stopping distance",
+    "answer_pt": "Pode aumentar a distância de parada"
+  },
+  {
+    "id": 16,
+    "category": "Vehicle loading",
+    "question_en": "What should you do if a trailer starts to snake?",
+    "question_pt": "O que fazer se o reboque começar a oscilar?",
+    "answer_en": "Ease off the accelerator and avoid sharp steering",
+    "answer_pt": "Tirar o pé e evitar movimentos bruscos"
+  },
+  {
+    "id": 17,
+    "category": "Vehicle loading",
+    "question_en": "While driving, what should you check after loading a roof rack?",
+    "question_pt": "O que checar após carregar no teto?",
+    "answer_en": "That the load is secure and within limits",
+    "answer_pt": "Se está bem preso e dentro do limite"
+  },
+  {
+    "id": 18,
+    "category": "Vehicle loading",
+    "question_en": "Why is it important to secure a load?",
+    "question_pt": "Qual o motivo de é importante prender a carga?",
+    "answer_en": "To prevent it moving and affecting control",
+    "answer_pt": "Para evitar que se mova e afete o controle"
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 2,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 3,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "Ao dirigir, o que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 4,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 5,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, how should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 6,
+    "category": "Vulnerable road users",
+    "question_en": "What should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 7,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "Ao dirigir, o que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 8,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 9,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 10,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 11,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 12,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 13,
+    "category": "Vulnerable road users",
+    "question_en": "What must you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 14,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Ao dirigir, onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 15,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 16,
+    "category": "Vulnerable road users",
+    "question_en": "What should you watch for near bus stops?",
+    "question_pt": "Ao dirigir, o que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 17,
+    "category": "Vulnerable road users",
+    "question_en": "What should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "Ao dirigir, o que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 18,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 19,
+    "category": "Vulnerable road users",
+    "question_en": "What must you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 20,
+    "category": "Vulnerable road users",
+    "question_en": "What should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 21,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 22,
+    "category": "Vulnerable road users",
+    "question_en": "What should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 23,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you watch for near bus stops?",
+    "question_pt": "Ao dirigir, o que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 24,
+    "category": "Vulnerable road users",
+    "question_en": "What is the best action to take when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 25,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 26,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Ao dirigir, como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 27,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, where might you expect children to behave unpredictably?",
+    "question_pt": "Ao dirigir, onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 28,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 29,
+    "category": "Vulnerable road users",
+    "question_en": "What must you watch for near bus stops?",
+    "question_pt": "Ao dirigir, o que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 30,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, how should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 31,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 32,
+    "category": "Vulnerable road users",
+    "question_en": "What should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 33,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 34,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 35,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 36,
+    "category": "Vulnerable road users",
+    "question_en": "What should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 37,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 38,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 39,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, how should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 40,
+    "category": "Vulnerable road users",
+    "question_en": "How must you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 41,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you watch for near bus stops?",
+    "question_pt": "O que observar perto de pontos de ônibus?",
+    "answer_en": "Pedestrians crossing in front of the bus",
+    "answer_pt": "Pedestres atravessando à frente do ônibus"
+  },
+  {
+    "id": 42,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 43,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 44,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 45,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 46,
+    "category": "Vulnerable road users",
+    "question_en": "What is the best action to take when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 47,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 48,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 49,
+    "category": "Vulnerable road users",
+    "question_en": "Where might you expect children to behave unpredictably?",
+    "question_pt": "Onde você pode esperar crianças imprevisíveis?",
+    "answer_en": "Near schools and playgrounds",
+    "answer_pt": "Perto de escolas e parquinhos"
+  },
+  {
+    "id": 50,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 51,
+    "category": "Vulnerable road users",
+    "question_en": "How should you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 52,
+    "category": "Vulnerable road users",
+    "question_en": "How must you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 53,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, how should you pass cyclists?",
+    "question_pt": "Ao dirigir, como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  },
+  {
+    "id": 54,
+    "category": "Vulnerable road users",
+    "question_en": "While driving, what should you do when you see an older pedestrian crossing slowly?",
+    "question_pt": "O que fazer ao ver idoso atravessando devagar?",
+    "answer_en": "Be patient and wait",
+    "answer_pt": "Ser paciente e esperar"
+  },
+  {
+    "id": 55,
+    "category": "Vulnerable road users",
+    "question_en": "How must you pass cyclists?",
+    "question_pt": "Como ultrapassar ciclistas?",
+    "answer_en": "Leave plenty of room",
+    "answer_pt": "Deixar bastante espaço"
+  }
+]
