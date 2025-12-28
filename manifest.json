@@ -1,0 +1,21 @@
+{
+  "name": "UK Theory Test Study",
+  "short_name": "UK Theory",
+  "description": "Study UK Driving Theory Test online",
+  "start_url": "/uk-theory-web/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#1f7a1f",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
